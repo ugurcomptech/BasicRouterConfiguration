@@ -2,7 +2,9 @@
 
 
 
-https://github.com/ugurcomptech/BasicRouterConfiguration/assets/133202238/31aec4aa-82ba-4851-8d7d-ccf6e34a6915
+
+
+https://github.com/ugurcomptech/BasicRouterConfiguration/assets/133202238/c13400a9-05d8-406f-a945-8f50aa7a88b1
 
 
 ## Router Ip Yapılandırmaları
