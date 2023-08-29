@@ -25,6 +25,14 @@ https://github.com/ugurcomptech/BasicRouterConfiguration/assets/133202238/31aec4
   
 - **Client2:** 192.168.60.10
 
-![image](https://github.com/ugurcomptech/BasicRouterConfiguration/assets/133202238/7323214f-de44-4394-abdd-42d97eead06a)
+![image](https://github.com/ugurcomptech/BasicRouterConfiguration/assets/133202238/9bba41b4-ed98-417e-aa40-1515104c6912)
 
 
+- **Printer1:** 192.168.50.20
+
+![image](https://github.com/ugurcomptech/BasicRouterConfiguration/assets/133202238/a3dc8496-1588-49c6-b539-8a75bbee2409)
+
+  
+- **Printer2:** 192.168.60.20
+
+![image](https://github.com/ugurcomptech/BasicRouterConfiguration/assets/133202238/c715f4be-5d65-4914-99a8-bb97ba97a5bd)
